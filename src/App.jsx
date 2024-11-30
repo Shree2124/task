@@ -1,12 +1,11 @@
-import ProfileDetails from "./components/Profile"
+import ProfileDetails from "./components/Profile";
 
 function App() {
-
   return (
     <>
-    <ProfileDetails/>
+      <ProfileDetails />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
